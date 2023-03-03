@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WecipyApp/static/css/main.ceb9a26c.css",
-    "main.js": "/WecipyApp/static/js/main.d40f031c.js",
-    "index.html": "/WecipyApp/index.html",
-    "main.ceb9a26c.css.map": "/WecipyApp/static/css/main.ceb9a26c.css.map",
-    "main.d40f031c.js.map": "/WecipyApp/static/js/main.d40f031c.js.map"
+    "main.css": "/wecipyapp/static/css/main.ceb9a26c.css",
+    "main.js": "/wecipyapp/static/js/main.f85cae4e.js",
+    "index.html": "/wecipyapp/index.html",
+    "main.ceb9a26c.css.map": "/wecipyapp/static/css/main.ceb9a26c.css.map",
+    "main.f85cae4e.js.map": "/wecipyapp/static/js/main.f85cae4e.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb9a26c.css",
-    "static/js/main.d40f031c.js"
+    "static/js/main.f85cae4e.js"
   ]
 }
