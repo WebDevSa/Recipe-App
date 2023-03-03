@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wecipyapp/static/css/main.ceb9a26c.css",
-    "main.js": "/wecipyapp/static/js/main.f85cae4e.js",
-    "index.html": "/wecipyapp/index.html",
-    "main.ceb9a26c.css.map": "/wecipyapp/static/css/main.ceb9a26c.css.map",
-    "main.f85cae4e.js.map": "/wecipyapp/static/js/main.f85cae4e.js.map"
+    "main.css": "/Recipe-App/static/css/main.ceb9a26c.css",
+    "main.js": "/Recipe-App/static/js/main.156b0430.js",
+    "index.html": "/Recipe-App/index.html",
+    "main.ceb9a26c.css.map": "/Recipe-App/static/css/main.ceb9a26c.css.map",
+    "main.156b0430.js.map": "/Recipe-App/static/js/main.156b0430.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb9a26c.css",
-    "static/js/main.f85cae4e.js"
+    "static/js/main.156b0430.js"
   ]
 }
